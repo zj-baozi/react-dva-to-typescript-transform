@@ -1,0 +1,24 @@
+{
+  "extends": ["tslint:latest"],
+  "defaultSeverity": "warning",
+  "rules": {
+    "trailing-comma": false,
+    "ordered-imports": false,
+    "no-var-requires": false,
+    "no-submodule-imports": false,
+    "object-literal-sort-keys": false,
+    "jsx-no-lambda": false,
+    "no-implicit-dependencies": false,
+    "no-console": false,
+    "jsx-wrap-multiline": false,
+    "interface-name": false,
+    "no-conditional-assignment": false,
+    "quotemark": [false],
+    "no-unused-expression": false,
+    "arrow-parens": false,
+    "no-shadow": [
+      "error",
+      { "builtinGlobals": false, "hoist": "functions", "allow": [] }
+    ]
+  }
+}
