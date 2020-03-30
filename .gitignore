@@ -1,2 +1,21 @@
+# dependencies
+/node_modules
 
-node_modules
+# production
+/dist
+
+# misc
+.DS_Store
+npm-debug.log*
+
+
+# build
+_dist/
+_package/
+www/
+node_modules/
+
+# editor
+.idea/
+.vscode/
+.history/

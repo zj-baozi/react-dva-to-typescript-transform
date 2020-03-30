@@ -1,6 +1,6 @@
 {
   "name": "react-dva-to-typescript-transform",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Convert React or Dva from JavaScript to TypeScript",
   "main": "dist/index.js",
   "scripts": {
@@ -55,7 +55,6 @@
   "devDependencies": {
     "@types/chalk": "^2.2.0",
     "@types/commander": "^2.9.1",
-    "detect-indent": "^5.0.0",
     "@types/detect-indent": "^5.0.0",
     "@types/glob": "^5.0.35",
     "@types/jest": "^22.2.3",

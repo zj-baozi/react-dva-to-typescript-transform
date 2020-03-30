@@ -138,7 +138,7 @@ export default Models;
 ### Install
 
 ```
-npm install -g react-dvå-to-typescript
+npm install -g react-dva-to-typescript-transform
 ```
 
 ### CLI

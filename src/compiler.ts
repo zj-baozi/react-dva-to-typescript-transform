@@ -4,7 +4,7 @@ import * as ts from "typescript";
 import chalk from "chalk";
 import * as _ from "lodash";
 import * as prettier from "prettier";
-import detectIndent from "detect-indent";
+import * as detectIndent from "detect-indent";
 
 import { TransformFactoryFactory } from ".";
 
